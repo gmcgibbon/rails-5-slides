@@ -1,0 +1,22 @@
+{
+  "name": "rails-5-slides",
+  "description": "Rails 5 Slideshow",
+  "main": "index.js",
+  "authors": [
+    "Gannon McGibbon"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "^3.4.1",
+    "highlightjs": "^9.9.0"
+  }
+}
