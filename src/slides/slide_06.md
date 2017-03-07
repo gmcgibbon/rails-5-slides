@@ -23,7 +23,7 @@ Vertical:
 
 ## Rails Server
 
-Run your app on a server (defaults to Puma):
+Run your app on a server (the default is Puma):
 
 ```shell
 rails server
