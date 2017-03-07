@@ -19,10 +19,10 @@ Vertical:
 
 Rails was designed with 2 principles in mind:
   - Convention over Configuration (CoC)
-  - Don't Repeat Yourself (DRY).
+  - Don't Repeat Yourself (DRY)
 
 Vertical:
 
 ## Ecosystem
 
-Rails (and Ruby) have more than a strong community. There is enough open source libraries, tools, and documentation to make other languages jealous.
+Rails (and Ruby) have more than a strong community. If you can think of it, there's probably an open source library (gem) for it.
