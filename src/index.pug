@@ -3,6 +3,7 @@ html(lang='en')
   head
     meta(charset='utf-8')
     meta(name='viewport' content='width=device-width, initial-scale=1.0')
+    title= slideshow.title
     script(src='vendor/headjs/dist/1.0.0/head.js')
     script(src='vendor/reveal.js/js/reveal.js')
     script(src='slideshow.js')
@@ -13,7 +14,7 @@ html(lang='en')
   body
     .reveal
       .slides
-        each slide in slides
+        each slide in slideshow.slides
           section(
             data-markdown=slide
             data-separator='^Horizontal:'
